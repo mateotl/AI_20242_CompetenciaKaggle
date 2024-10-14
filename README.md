@@ -1,4 +1,4 @@
-# AI-2024.2-Entrega-1
+# AI - 2024.2 - Proyecto Kaggle
 
 **Nombre:** Mateo Toro Lopez
 
